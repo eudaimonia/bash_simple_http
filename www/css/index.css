@@ -1,0 +1,10 @@
+p {
+    font-size: 1.2em;
+    color: red;
+}
+
+#image img {
+    max-width: 250px;
+    max-height: 300px;
+    border: solid 1px maroon;
+}
